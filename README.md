@@ -50,7 +50,7 @@ The project helped apply practical concepts such as exploratory data analysis, s
 
 The complete analysis is available in:
 
-**`Walmart_CI_CLT.ipynb`**
+[Walmart_CI_CLT.ipynb](https://tinyurl.com/Walmart-CLT)
 
 ## 👩‍💻 Author
 
